@@ -25,3 +25,12 @@ The dashboard helps users monitor inventory levels, compare product prices, and 
 
 ## Project Type
 Portfolio Project | Data Analytics | Business Intelligence
+
+## Dashboard Preview
+
+![Product Inventory & Pricing Analysis Dashboard](product-inventory-dashboard.png)
+
+## Project Deliverables
+
+- **Power BI Dashboard:** Download `Product_Inventory_Analysis.pbix` to explore the editable report in Power BI Desktop.
+- **PDF Report:** Download `Product_Inventory_Analysis.pdf` to view the dashboard.
